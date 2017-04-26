@@ -1,4 +1,5 @@
-(* Applescript for Mac OS X. The author's os version is 10.11.3.
+(* Applescript for Mac OS X. The author's os version is 10.11.3. 
+ The Microsoft PowerPoint version of the author is 15.27(161010) of Office 2016 for Mac from CUHK.
 Automatically convert ppt and pptx files in a chosen folder to pdf. The quality should
 be guaranteed because this script calls the PowerPoint application to work. *)
 
@@ -19,8 +20,4 @@ repeat with F in fl
 			click menu item "Close" of menu "File" of menu bar 1
 		end tell
 	end tell
-<<<<<<< HEAD
 end repeat
-=======
-end repeat
->>>>>>> 05e788499ef1e0fbaa89ff9ab5d18c46cfa664e7
