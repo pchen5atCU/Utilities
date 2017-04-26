@@ -19,4 +19,8 @@ repeat with F in fl
 			click menu item "Close" of menu "File" of menu bar 1
 		end tell
 	end tell
+<<<<<<< HEAD
 end repeat
+=======
+end repeat
+>>>>>>> 05e788499ef1e0fbaa89ff9ab5d18c46cfa664e7
