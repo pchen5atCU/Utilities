@@ -1,1 +1,1 @@
-Some interesting small toys that sometimes can be of a little use.
+Some little tools that may be useful sometimes.
